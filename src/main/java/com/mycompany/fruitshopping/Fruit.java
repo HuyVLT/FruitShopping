@@ -23,8 +23,6 @@ class Fruit {
         this.quantity = 0;
     }
 
-    // Getters and setters
-
     public int getFruitId() {
         return fruitId;
     }
