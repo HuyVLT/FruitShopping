@@ -23,7 +23,7 @@ public class Main {
         do {
             view.displayMenu();
             choice = sc.nextInt();
-            sc.nextLine(); // Consume newline
+            sc.nextLine(); 
 
             switch (choice) {
                 case 1:
