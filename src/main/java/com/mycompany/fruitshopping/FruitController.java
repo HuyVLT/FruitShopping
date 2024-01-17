@@ -78,7 +78,7 @@ class FruitController {
 
         } while (continueOrdering == 'Y' || continueOrdering == 'y');
 
-        scanner.nextLine(); // Consume newline
+        scanner.nextLine();
         System.out.print("Input your name: ");
         String customerName = scanner.nextLine();
 
